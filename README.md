@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Unfortunaly, most of my code production is hidden from you in private repos.
+
+- 🔭 I’m currently working on really exiciting projects with time series forecasting.
+- 📫 How to reach me: edwardl@hectiq.ai
+
 <!--
 **laurencee9/laurencee9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
