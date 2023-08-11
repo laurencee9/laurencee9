@@ -4,7 +4,7 @@ Unfortunately, most of my code is located in private repos.
 
 
 - ✨ I’m currently working on exiciting projects with **bayesian statistics and classical machine learning**.
-  - I'm sharing my time on maitaining multiple web apps and developing a new REST API for a cool project (fullstack)   
+  - I'm sharing my time on maintaining multiple web apps and developing a new REST API for a cool project (fullstack)   
 - 🔭 I’ve recently finished working on projects with **time series forecasting.**
 - 📫 How to reach me: edwardl@hectiq.ai
 
