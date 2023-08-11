@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-Unfortunaly, most of my code production is hidden from you in private repos.
+Unfortunately, most of my code is located in private repos.
 
-- 🔭 I’m currently working on really exiciting projects with time series forecasting.
+
+- ✨ I’m currently working on exiciting projects with **bayesian statistics and classical machine learning**.
+  - I'm sharing my time on maitaining multiple web apps and developing a new REST API for a cool project (fullstack)   
+- 🔭 I’ve recently finished working on projects with **time series forecasting.**
 - 📫 How to reach me: edwardl@hectiq.ai
 
 <!--
